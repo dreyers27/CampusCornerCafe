@@ -10,5 +10,7 @@ class Program
 
         double total = 4.5 + 3.0;
         Console.WriteLine($"Total: ${total}");
+
+        Console.WriteLine("Thank you for visiting Campus Corner Cafe!");
     }
 }
